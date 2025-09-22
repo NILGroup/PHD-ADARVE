@@ -1,0 +1,4 @@
+id,user_id,experiment_id,scenario_type,conversation_type,question_index,answer_index,event_datetime
+0,"FDI_AK","","S2_BasicEmergency","Initial","0","2","2025-2-21 11:52:57.448"
+1,"FDI_AK","","S2_BasicEmergency","Initial","1","2","2025-2-21 11:53:10.514"
+2,"FDI_AK","","S2_BasicEmergency","Initial","2","2","2025-2-21 11:53:31.576"

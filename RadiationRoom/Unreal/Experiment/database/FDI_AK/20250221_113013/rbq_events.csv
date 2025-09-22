@@ -1,0 +1,5 @@
+id,user_id,experiment_id,scenario_type,event_type,actor_id,num_of_actors,event_datetime
+0,"FDI_AK","","T2_BasicEmergency","increase","[2]","[1]","2025-2-21 11:31:32.536"
+1,"FDI_AK","","T2_BasicEmergency","increase","[2]","[2]","2025-2-21 11:31:43.819"
+2,"FDI_AK","","T2_BasicEmergency","increase","[3]","[1]","2025-2-21 11:31:47.55"
+3,"FDI_AK","","T2_BasicEmergency","pick","[2;1]","[2;3]","2025-2-21 11:31:51.381"

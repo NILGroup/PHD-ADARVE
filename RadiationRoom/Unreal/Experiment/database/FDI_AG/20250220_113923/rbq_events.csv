@@ -1,0 +1,11 @@
+id,user_id,experiment_id,scenario_type,event_type,actor_id,num_of_actors,event_datetime
+0,"FDI_AG","","S2_BasicEmergency","increase","[3]","[1]","2025-2-20 11:40:59.621"
+1,"FDI_AG","","S2_BasicEmergency","increase","[5]","[1]","2025-2-20 11:41:10.252"
+2,"FDI_AG","","S2_BasicEmergency","increase","[2]","[1]","2025-2-20 11:41:12.379"
+3,"FDI_AG","","S2_BasicEmergency","increase","[2]","[2]","2025-2-20 11:41:12.985"
+4,"FDI_AG","","S2_BasicEmergency","increase","[2]","[3]","2025-2-20 11:41:13.232"
+5,"FDI_AG","","S2_BasicEmergency","increase","[2]","[4]","2025-2-20 11:41:13.535"
+6,"FDI_AG","","S2_BasicEmergency","increase","[2]","[5]","2025-2-20 11:41:13.795"
+7,"FDI_AG","","S2_BasicEmergency","pick","[5;1;1]","[2;3;5]","2025-2-20 11:41:15.655"
+8,"FDI_AG","","S2_BasicEmergency","increase","[4]","[1]","2025-2-20 11:43:12.841"
+9,"FDI_AG","","S2_BasicEmergency","pick","[1]","[4]","2025-2-20 11:43:14.672"

@@ -1,0 +1,4 @@
+id,user_id,experiment_id,scenario_type,tutorial_item_id,event_type,event_datetime
+0,"FDI_AA","","T1_BasicMechanics","MOV_VirtualWorld","completed","2025-2-18 10:38:48.535"
+1,"FDI_AA","","T1_BasicMechanics","OI_Detection","started","2025-2-18 10:40:32.584"
+2,"FDI_AA","","T1_BasicMechanics","OI_Detection","completed","2025-2-18 10:42:17.47"

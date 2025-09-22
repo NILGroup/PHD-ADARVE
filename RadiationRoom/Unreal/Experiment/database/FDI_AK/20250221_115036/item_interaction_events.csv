@@ -1,0 +1,13 @@
+id,user_id,experiment_id,scenario_type,actor_id,actor_name,event_type,hand,event_datetime
+0,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","start_detection","Right","2025-2-21 11:52:34.894"
+1,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","grab","Right","2025-2-21 11:52:35.707"
+2,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","stop_detection","Right","2025-2-21 11:52:35.734"
+3,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","release","Right","2025-2-21 11:53:41.682"
+4,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","start_detection","Right","2025-2-21 11:53:45.47"
+5,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","grab","Right","2025-2-21 11:53:45.445"
+6,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","stop_detection","Right","2025-2-21 11:53:45.466"
+7,"FDI_AK","","S2_BasicEmergency","4","BP_Dosimeter_EPD_C_0","start_detection","Left","2025-2-21 11:54:43.239"
+8,"FDI_AK","","S2_BasicEmergency","4","BP_Dosimeter_EPD_C_0","grab","Left","2025-2-21 11:54:43.940"
+9,"FDI_AK","","S2_BasicEmergency","4","BP_Dosimeter_EPD_C_0","stop_detection","Left","2025-2-21 11:54:43.976"
+10,"FDI_AK","","S2_BasicEmergency","4","BP_Dosimeter_EPD_C_0","release","Left","2025-2-21 11:54:57.280"
+11,"FDI_AK","","S2_BasicEmergency","5","BP_WalkieTalkie_C_0","release","Right","2025-2-21 11:54:57.390"

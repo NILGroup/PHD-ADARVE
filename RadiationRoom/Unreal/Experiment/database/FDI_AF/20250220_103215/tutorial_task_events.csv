@@ -1,0 +1,11 @@
+id,user_id,experiment_id,scenario_type,tutorial_item_id,event_type,event_datetime
+0,"FDI_AF","","T2_BasicEmergency","RBQ_Functionality","started","2025-2-20 10:33:26.5"
+1,"FDI_AF","","T2_BasicEmergency","RBQ_Functionality","completed","2025-2-20 10:34:25.670"
+2,"FDI_AF","","T2_BasicEmergency","OI_WalkieTalkie","started","2025-2-20 10:35:14.796"
+3,"FDI_AF","","T2_BasicEmergency","OI_WalkieTalkie","completed","2025-2-20 10:35:56.165"
+4,"FDI_AF","","T2_BasicEmergency","OI_SABG100","started","2025-2-20 10:36:12.735"
+5,"FDI_AF","","T2_BasicEmergency","OI_SABG100","completed","2025-2-20 10:36:34.848"
+6,"FDI_AF","","T2_BasicEmergency","OI_EPD","started","2025-2-20 10:36:53.58"
+7,"FDI_AF","","T2_BasicEmergency","OI_EPD","completed","2025-2-20 10:37:2.987"
+8,"FDI_AF","","T2_BasicEmergency","HP_Functionality","started","2025-2-20 10:37:16.937"
+9,"FDI_AF","","T2_BasicEmergency","HP_Functionality","completed","2025-2-20 10:38:13.138"
