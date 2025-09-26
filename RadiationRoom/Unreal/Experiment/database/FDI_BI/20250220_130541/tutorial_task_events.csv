@@ -1,0 +1,11 @@
+id,user_id,experiment_id,scenario_type,tutorial_item_id,event_type,event_datetime
+0,"FDI_BI","","T1_BasicMechanics","MOV_VirtualWorld","started","2025-2-20 13:8:36.691"
+1,"FDI_BI","","T1_BasicMechanics","MOV_VirtualWorld","completed","2025-2-20 13:14:7.454"
+2,"FDI_BI","","T1_BasicMechanics","OI_Detection","started","2025-2-20 13:15:25.152"
+3,"FDI_BI","","T1_BasicMechanics","OI_Detection","completed","2025-2-20 13:17:6.557"
+4,"FDI_BI","","T1_BasicMechanics","OI_GrabRelease","started","2025-2-20 13:19:44.646"
+5,"FDI_BI","","T1_BasicMechanics","OI_GrabRelease","completed","2025-2-20 13:20:40.774"
+6,"FDI_BI","","T1_BasicMechanics","OI_Placement","started","2025-2-20 13:22:58.567"
+7,"FDI_BI","","T1_BasicMechanics","OI_Placement","completed","2025-2-20 13:25:34.230"
+8,"FDI_BI","","T1_BasicMechanics","CI_Conversation","started","2025-2-20 13:26:13.616"
+9,"FDI_BI","","T1_BasicMechanics","CI_Conversation","completed","2025-2-20 13:26:46.752"

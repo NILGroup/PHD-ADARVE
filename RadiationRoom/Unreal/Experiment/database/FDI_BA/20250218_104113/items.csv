@@ -1,0 +1,8 @@
+id,user_id,experiment_id,scenario_type,actor_id,actor_name
+0,"FDI_BA","","S2_BasicEmergency","11","BP_RadiationEmissionPoint"
+1,"FDI_BA","","S2_BasicEmergency","4","BP_Dosimeter_EPD0"
+2,"FDI_BA","","S2_BasicEmergency","5","BP_WalkieTalkie0"
+3,"FDI_BA","","S2_BasicEmergency","2","BP_TrafficCone0"
+4,"FDI_BA","","S2_BasicEmergency","2","BP_TrafficCone1"
+5,"FDI_BA","","S2_BasicEmergency","2","BP_TrafficCone2"
+6,"FDI_BA","","S2_BasicEmergency","2","BP_TrafficCone3"

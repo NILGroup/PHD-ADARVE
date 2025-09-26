@@ -1,0 +1,7 @@
+id,user_id,experiment_id,scenario_type,conversation_type,question_index,answer_index,event_datetime
+0,"FDI_BG","","S2_BasicEmergency","Initial","0","1","2025-2-20 11:35:19.833"
+1,"FDI_BG","","S2_BasicEmergency","Initial","1","2","2025-2-20 11:35:29.901"
+2,"FDI_BG","","S2_BasicEmergency","Initial","2","0","2025-2-20 11:35:48.707"
+3,"FDI_BG","","S2_BasicEmergency","Final","0","2","2025-2-20 11:42:7.543"
+4,"FDI_BG","","S2_BasicEmergency","Final","1","1","2025-2-20 11:42:18.105"
+5,"FDI_BG","","S2_BasicEmergency","Final","2","2","2025-2-20 11:42:41.371"

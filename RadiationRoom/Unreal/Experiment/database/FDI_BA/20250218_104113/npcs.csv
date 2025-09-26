@@ -1,0 +1,3 @@
+id,user_id,experiment_id,scenario_type,actor_id,talkable
+0,"FDI_BA","","S2_BasicEmergency","6","true"
+1,"FDI_BA","","S2_BasicEmergency","5","true"

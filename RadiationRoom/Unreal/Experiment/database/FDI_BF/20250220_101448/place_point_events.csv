@@ -1,0 +1,11 @@
+id,user_id,experiment_id,scenario_type,actor_id,actor_name,place_point_name,activation_count,start_datetime,end_datetime
+0,"FDI_BF","","S1_BasicMechanics","2","TrafficCone_3","BP_PlacePoint","4","2025-2-20 10:17:4.608","2025-2-20 10:17:4.608"
+1,"FDI_BF","","S1_BasicMechanics","2","TrafficCone_5","BP_PlacePoint5","6","2025-2-20 10:17:13.826","2025-2-20 10:17:13.826"
+2,"FDI_BF","","S1_BasicMechanics","2","TrafficCone_1","BP_PlacePoint4","8","2025-2-20 10:17:23.276","2025-2-20 10:17:23.276"
+3,"FDI_BF","","S1_BasicMechanics","2","TrafficCone_7","BP_PlacePoint2","10","2025-2-20 10:17:34.8","2025-2-20 10:17:34.9"
+4,"FDI_BF","","S1_BasicMechanics","2","TrafficCone_4","BP_PlacePoint3","12","2025-2-20 10:17:42.784","2025-2-20 10:17:42.785"
+5,"FDI_BF","","S1_BasicMechanics","3","Dosimeter_SABG100_4","BP_PlacePoint6","5","2025-2-20 10:17:53.458","2025-2-20 10:17:53.458"
+6,"FDI_BF","","S1_BasicMechanics","3","Dosimeter_SABG100_2","BP_PlacePoint8","7","2025-2-20 10:18:6.359","2025-2-20 10:18:6.359"
+7,"FDI_BF","","S1_BasicMechanics","3","Dosimeter_SABG100_3","BP_PlacePoint7","9","2025-2-20 10:18:18.932","2025-2-20 10:18:18.932"
+8,"FDI_BF","","S1_BasicMechanics","4","Dosimeter_EPD_2","BP_PlacePoint9","4","2025-2-20 10:18:27.633","2025-2-20 10:18:27.634"
+9,"FDI_BF","","S1_BasicMechanics","4","Dosimeter_EPD_1","BP_PlacePoint10","6","2025-2-20 10:18:36.555","2025-2-20 10:18:36.555"

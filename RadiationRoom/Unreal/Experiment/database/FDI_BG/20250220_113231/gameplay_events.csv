@@ -1,0 +1,12 @@
+id,user_id,experiment_id,scenario_type,event_type,event_state,event_datetime
+0,"FDI_BG","","S2_BasicEmergency","00001","Completed","2025-2-20 11:32:32.488"
+1,"FDI_BG","","S2_BasicEmergency","S2001","Completed","2025-2-20 11:35:56.841"
+2,"FDI_BG","","S2_BasicEmergency","S2002","Completed","2025-2-20 11:36:13.993"
+3,"FDI_BG","","S2_BasicEmergency","S2003","Completed","2025-2-20 11:36:47.887"
+4,"FDI_BG","","S2_BasicEmergency","S2004","Completed","2025-2-20 11:38:0.565"
+5,"FDI_BG","","S2_BasicEmergency","S2005","Completed","2025-2-20 11:38:48.266"
+6,"FDI_BG","","S2_BasicEmergency","S2006","Completed","2025-2-20 11:39:58.665"
+7,"FDI_BG","","S2_BasicEmergency","S2007","Completed","2025-2-20 11:40:52.709"
+8,"FDI_BG","","S2_BasicEmergency","S2008","Completed","2025-2-20 11:41:2.883"
+9,"FDI_BG","","S2_BasicEmergency","S2009","Completed","2025-2-20 11:42:51.703"
+10,"FDI_BG","","S2_BasicEmergency","00002","Completed","2025-2-20 11:43:23.495"

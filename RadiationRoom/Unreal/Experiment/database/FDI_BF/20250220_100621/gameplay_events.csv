@@ -1,0 +1,13 @@
+id,user_id,experiment_id,scenario_type,event_type,event_state,event_datetime
+0,"FDI_BF","","T1_BasicMechanics","00001","Completed","2025-2-20 10:7:5.479"
+1,"FDI_BF","","T1_BasicMechanics","T1001","Started","2025-2-20 10:7:40.467"
+2,"FDI_BF","","T1_BasicMechanics","T1001","Completed","2025-2-20 10:9:24.576"
+3,"FDI_BF","","T1_BasicMechanics","T1002","Started","2025-2-20 10:9:24.604"
+4,"FDI_BF","","T1_BasicMechanics","T1002","Completed","2025-2-20 10:10:32.250"
+5,"FDI_BF","","T1_BasicMechanics","T1003","Started","2025-2-20 10:10:32.274"
+6,"FDI_BF","","T1_BasicMechanics","T1003","Completed","2025-2-20 10:11:31.418"
+7,"FDI_BF","","T1_BasicMechanics","T1004","Started","2025-2-20 10:11:31.447"
+8,"FDI_BF","","T1_BasicMechanics","T1004","Completed","2025-2-20 10:12:24.9"
+9,"FDI_BF","","T1_BasicMechanics","T1005","Started","2025-2-20 10:12:24.35"
+10,"FDI_BF","","T1_BasicMechanics","T1005","Completed","2025-2-20 10:14:28.222"
+11,"FDI_BF","","T1_BasicMechanics","00002","Completed","2025-2-20 10:14:46.580"

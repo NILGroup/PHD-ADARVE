@@ -1,0 +1,4 @@
+id,user_id,experiment_id,scenario_type,event_type,tutorial_item_id,event_datetime
+0,"FDI_BA","","T2_BasicEmergency","open","None","2025-2-18 10:40:18.738"
+1,"FDI_BA","","T2_BasicEmergency","demand_help","MOV_VirtualWorldLimits","2025-2-18 10:40:29.999"
+2,"FDI_BA","","T2_BasicEmergency","close","None","2025-2-18 10:40:54.820"

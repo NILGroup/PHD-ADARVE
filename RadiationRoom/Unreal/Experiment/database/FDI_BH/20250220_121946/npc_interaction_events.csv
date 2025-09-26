@@ -1,0 +1,13 @@
+id,user_id,experiment_id,scenario_type,actor_id,conversation_index,event_type,event_datetime
+0,"FDI_BH","","S1_BasicMechanics","2","0","start_talk_with_npc","2025-2-20 12:20:29.162"
+1,"FDI_BH","","S1_BasicMechanics","2","0","stop_talk_with_npc","2025-2-20 12:20:58.941"
+2,"FDI_BH","","S1_BasicMechanics","2","1","start_talk_with_npc","2025-2-20 12:22:59.467"
+3,"FDI_BH","","S1_BasicMechanics","2","1","stop_talk_with_npc","2025-2-20 12:23:11.184"
+4,"FDI_BH","","S1_BasicMechanics","2","1","start_talk_with_npc","2025-2-20 12:24:3.164"
+5,"FDI_BH","","S1_BasicMechanics","2","1","stop_talk_with_npc","2025-2-20 12:24:15.310"
+6,"FDI_BH","","S1_BasicMechanics","2","1","start_talk_with_npc","2025-2-20 12:24:35.245"
+7,"FDI_BH","","S1_BasicMechanics","2","1","stop_talk_with_npc","2025-2-20 12:24:47.150"
+8,"FDI_BH","","S1_BasicMechanics","2","1","start_talk_with_npc","2025-2-20 12:25:56.398"
+9,"FDI_BH","","S1_BasicMechanics","2","1","stop_talk_with_npc","2025-2-20 12:26:8.911"
+10,"FDI_BH","","S1_BasicMechanics","2","2","start_talk_with_npc","2025-2-20 12:26:47.606"
+11,"FDI_BH","","S1_BasicMechanics","2","2","stop_talk_with_npc","2025-2-20 12:27:4.977"

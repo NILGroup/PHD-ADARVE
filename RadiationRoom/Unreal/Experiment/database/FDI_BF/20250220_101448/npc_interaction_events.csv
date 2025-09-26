@@ -1,0 +1,5 @@
+id,user_id,experiment_id,scenario_type,actor_id,conversation_index,event_type,event_datetime
+0,"FDI_BF","","S1_BasicMechanics","2","0","start_talk_with_npc","2025-2-20 10:16:20.198"
+1,"FDI_BF","","S1_BasicMechanics","2","0","stop_talk_with_npc","2025-2-20 10:16:49.909"
+2,"FDI_BF","","S1_BasicMechanics","2","2","start_talk_with_npc","2025-2-20 10:18:43.890"
+3,"FDI_BF","","S1_BasicMechanics","2","2","stop_talk_with_npc","2025-2-20 10:19:1.309"

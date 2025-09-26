@@ -1,0 +1,8 @@
+id,user_id,experiment_id,scenario_type,event_type,tutorial_item_id,event_datetime
+0,"FDI_BD","","T2_BasicEmergency","open","None","2025-2-18 13:35:0.919"
+1,"FDI_BD","","T2_BasicEmergency","close","None","2025-2-18 13:35:28.459"
+2,"FDI_BD","","T2_BasicEmergency","open","None","2025-2-18 13:35:30.283"
+3,"FDI_BD","","T2_BasicEmergency","close","None","2025-2-18 13:35:50.337"
+4,"FDI_BD","","T2_BasicEmergency","open","None","2025-2-18 13:35:55.149"
+5,"FDI_BD","","T2_BasicEmergency","demand_help","MOV_VirtualWorldLimits","2025-2-18 13:36:8.812"
+6,"FDI_BD","","T2_BasicEmergency","close","None","2025-2-18 13:36:22.107"

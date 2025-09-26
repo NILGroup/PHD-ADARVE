@@ -1,0 +1,4 @@
+id,user_id,experiment_id,scenario_type,actor_id,actor_name,dose_rate,dose_absortion,event_datetime
+0,"FDI_BL","","T2_BasicEmergency","1","PickableItem_2","476.214083","41.479659","2025-2-21 11:40:13.184"
+1,"FDI_BL","","T2_BasicEmergency","1","PickableItem_2","476.214083","41.479659","2025-2-21 11:40:13.211"
+2,"FDI_BL","","T2_BasicEmergency","1","PickableItem_2","476.213361","41.492505","2025-2-21 11:40:13.286"

@@ -1,0 +1,10 @@
+id,user_id,experiment_id,scenario_type,actor_id,actor_name,dose_rate,dose_absortion,event_datetime
+0,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_1","612.883125","45.890698","2025-2-20 14:31:12.783"
+1,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_1","626.695961","45.948568","2025-2-20 14:31:12.944"
+2,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_1","628.028926","45.951282","2025-2-20 14:31:12.984"
+3,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_1","623.157287","46.15275","2025-2-20 14:31:14.114"
+4,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_1","623.160979","46.156855","2025-2-20 14:31:14.154"
+5,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_1","627.798916","46.34753","2025-2-20 14:31:15.247"
+6,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_4","2.655129","0.221889","2025-2-20 14:31:43.912"
+7,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_4","2.654983","0.222441","2025-2-20 14:31:44.663"
+8,"FDI_BJ","","T2_BasicEmergency","1","PickableItem_4","2.660096","0.222526","2025-2-20 14:31:44.775"
