@@ -1,3 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,actor_name,event_type,hand,event_datetime
-0,"FDI_AA","","T1_BasicMechanics","9","Clamps_1","start_detection","Left","2025-2-18 10:28:29.153"
-1,"FDI_AA","","T1_BasicMechanics","9","Clamps_1","stop_detection","Left","2025-2-18 10:28:30.29"

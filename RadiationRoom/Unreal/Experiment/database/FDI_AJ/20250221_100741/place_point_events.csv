@@ -1,3 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,actor_name,place_point_name,activation_count,start_datetime,end_datetime
-0,"FDI_AJ","","T1_BasicMechanics","3","Dosimeter_SABG100_2","BP_PlacePoint10","13","2025-2-21 10:30:50.487","2025-2-21 10:30:50.487"
-1,"FDI_AJ","","T1_BasicMechanics","2","TrafficCone_5","BP_PlacePoint9","8","2025-2-21 10:31:26.968","2025-2-21 10:31:26.968"

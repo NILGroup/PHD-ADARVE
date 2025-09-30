@@ -1,7 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,conversation_index,event_type,event_datetime
-0,"FDI_BI","","S2_BasicEmergency","5","0","start_talk_with_npc","2025-2-20 13:45:57.186"
-1,"FDI_BI","","S2_BasicEmergency","5","0","stop_talk_with_npc","2025-2-20 13:46:21.871"
-2,"FDI_BI","","S2_BasicEmergency","6","0","start_talk_with_npc","2025-2-20 13:46:39.128"
-3,"FDI_BI","","S2_BasicEmergency","6","0","stop_talk_with_npc","2025-2-20 13:46:50.153"
-4,"FDI_BI","","S2_BasicEmergency","6","1","start_talk_with_npc","2025-2-20 13:47:20.624"
-5,"FDI_BI","","S2_BasicEmergency","6","1","stop_talk_with_npc","2025-2-20 13:47:55.761"

@@ -1,3 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,actor_name,place_point_name,activation_count,start_datetime,end_datetime
-0,"FDI_BG","","S2_BasicEmergency","2","BP_TrafficCone_C_0","BP_PlacePoint","4","2025-2-20 11:39:58.664","2025-2-20 11:39:58.684"
-1,"FDI_BG","","S2_BasicEmergency","2","BP_TrafficCone_C_1","BP_PlacePoint2","6","2025-2-20 11:40:16.502","2025-2-20 11:40:16.502"

@@ -1,5 +1,0 @@
-id,user_id,experiment_id,scenario_type,event_type,event_state,event_datetime
-0,"FDI_AK","","S2_BasicEmergency","00001","Completed","2025-2-21 11:50:41.560"
-1,"FDI_AK","","S2_BasicEmergency","S2001","Completed","2025-2-21 11:53:40.37"
-2,"FDI_AK","","S2_BasicEmergency","S2003","Completed","2025-2-21 11:54:20.802"
-3,"FDI_AK","","S2_BasicEmergency","S2002","Completed","2025-2-21 11:54:43.904"

@@ -1,7 +1,0 @@
-id,user_id,experiment_id,scenario_type,tutorial_item_id,event_type,event_datetime
-0,"FDI_BC","","T2_BasicEmergency","RBQ_Functionality","started","2025-2-18 12:44:51.383"
-1,"FDI_BC","","T2_BasicEmergency","RBQ_Functionality","completed","2025-2-18 12:45:31.91"
-2,"FDI_BC","","T2_BasicEmergency","OI_WalkieTalkie","started","2025-2-18 12:47:11.90"
-3,"FDI_BC","","T2_BasicEmergency","OI_WalkieTalkie","completed","2025-2-18 12:47:56.764"
-4,"FDI_BC","","T2_BasicEmergency","OI_SABG100","started","2025-2-18 12:49:4.85"
-5,"FDI_BC","","T2_BasicEmergency","OI_SABG100","completed","2025-2-18 12:49:25.662"

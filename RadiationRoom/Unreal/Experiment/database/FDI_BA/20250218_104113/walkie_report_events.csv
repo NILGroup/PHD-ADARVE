@@ -1,4 +1,0 @@
-id,user_id,experiment_id,scenario_type,conversation_type,question_index,answer_index,event_datetime
-0,"FDI_BA","","S2_BasicEmergency","Initial","0","1","2025-2-18 10:43:19.869"
-1,"FDI_BA","","S2_BasicEmergency","Initial","1","2","2025-2-18 10:43:28.697"
-2,"FDI_BA","","S2_BasicEmergency","Initial","2","2","2025-2-18 10:43:48.852"

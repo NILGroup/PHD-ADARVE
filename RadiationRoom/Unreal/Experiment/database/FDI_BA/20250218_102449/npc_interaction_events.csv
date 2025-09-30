@@ -1,7 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,conversation_index,event_type,event_datetime
-0,"FDI_BA","","S1_BasicMechanics","2","0","start_talk_with_npc","2025-2-18 10:25:28.27"
-1,"FDI_BA","","S1_BasicMechanics","2","0","stop_talk_with_npc","2025-2-18 10:25:57.547"
-2,"FDI_BA","","S1_BasicMechanics","2","1","start_talk_with_npc","2025-2-18 10:27:31.803"
-3,"FDI_BA","","S1_BasicMechanics","2","1","stop_talk_with_npc","2025-2-18 10:27:43.559"
-4,"FDI_BA","","S1_BasicMechanics","2","2","start_talk_with_npc","2025-2-18 10:29:5.486"
-5,"FDI_BA","","S1_BasicMechanics","2","2","stop_talk_with_npc","2025-2-18 10:29:22.739"

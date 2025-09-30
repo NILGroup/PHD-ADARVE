@@ -1,3 +1,0 @@
-id,user_id,experiment_id,scenario_type,event_type,tutorial_item_id,event_datetime
-0,"FDI_BE","","S2_BasicEmergency","open","None","2025-2-18 14:43:20.373"
-1,"FDI_BE","","S2_BasicEmergency","close","None","2025-2-18 14:43:22.322"

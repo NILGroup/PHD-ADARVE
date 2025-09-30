@@ -1,7 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,actor_name,dose_rate,dose_absortion,event_datetime
-0,"FDI_AD","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","1967.247405","2025-2-18 13:28:29.370"
-1,"FDI_AD","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","1968.772341","2025-2-18 13:28:29.468"
-2,"FDI_AD","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","1989.586527","2025-2-18 13:28:32.44"
-3,"FDI_AD","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","1989.859213","2025-2-18 13:28:32.94"
-4,"FDI_AD","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","1993.340877","2025-2-18 13:28:32.528"
-5,"FDI_AD","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","2004.069598","2025-2-18 13:28:33.867"

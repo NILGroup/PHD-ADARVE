@@ -1,6 +1,0 @@
-id,user_id,experiment_id,scenario_type,tutorial_item_id,event_type,event_datetime
-0,"FDI_BF","","T1_BasicMechanics","MOV_VirtualWorld","started","2025-2-20 10:7:52.70"
-1,"FDI_BF","","T1_BasicMechanics","OI_Detection","started","2025-2-20 10:9:37.18"
-2,"FDI_BF","","T1_BasicMechanics","OI_GrabRelease","started","2025-2-20 10:10:42.988"
-3,"FDI_BF","","T1_BasicMechanics","OI_Placement","started","2025-2-20 10:11:44.47"
-4,"FDI_BF","","T1_BasicMechanics","CI_Conversation","started","2025-2-20 10:12:48.122"

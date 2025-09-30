@@ -1,4 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,actor_name,dose_rate,dose_absortion,event_datetime
-0,"FDI_BI","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","2048.896991","2025-2-20 13:35:36.549"
-1,"FDI_BI","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","2052.900996","2025-2-20 13:35:37.51"
-2,"FDI_BI","","T2_BasicEmergency","11","RadiationEmissionPoint_1","28860.000595","2056.997985","2025-2-20 13:35:37.490"

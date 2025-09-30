@@ -1,7 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,actor_name,event_type,hand,event_datetime
-0,"FDI_AL","","T2_BasicEmergency","5","WalkieTalkie_1","start_detection","Right","2025-2-21 12:44:59.635"
-1,"FDI_AL","","T2_BasicEmergency","5","WalkieTalkie_1","grab","Right","2025-2-21 12:45:0.274"
-2,"FDI_AL","","T2_BasicEmergency","5","WalkieTalkie_1","stop_detection","Right","2025-2-21 12:45:0.305"
-3,"FDI_AL","","T2_BasicEmergency","5","WalkieTalkie_1","release","Right","2025-2-21 12:45:46.676"
-4,"FDI_AL","","T2_BasicEmergency","5","WalkieTalkie_1","start_detection","Right","2025-2-21 12:45:47.134"
-5,"FDI_AL","","T2_BasicEmergency","5","WalkieTalkie_1","stop_detection","Right","2025-2-21 12:45:47.346"

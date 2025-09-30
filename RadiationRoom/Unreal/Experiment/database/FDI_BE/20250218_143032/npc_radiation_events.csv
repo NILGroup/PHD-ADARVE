@@ -1,6 +1,0 @@
-id,user_id,experiment_id,scenario_type,actor_id,dose_rate,dose_absortion,event_datetime
-0,"FDI_BE","","T2_BasicEmergency","3","84.670854","9.102008","2025-2-18 14:36:59.573"
-1,"FDI_BE","","T2_BasicEmergency","3","84.670854","9.11282","2025-2-18 14:37:0.11"
-2,"FDI_BE","","T2_BasicEmergency","3","84.670854","9.125136","2025-2-18 14:37:0.494"
-3,"FDI_BE","","T2_BasicEmergency","3","84.670854","9.137388","2025-2-18 14:37:1.27"
-4,"FDI_BE","","T2_BasicEmergency","3","84.670854","9.140322","2025-2-18 14:37:1.150"
