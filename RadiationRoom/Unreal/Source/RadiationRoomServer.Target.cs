@@ -8,7 +8,7 @@ public class RadiationRoomServerTarget : TargetRules
 	public RadiationRoomServerTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Server;
-		DefaultBuildSettings = BuildSettingsVersion.Latest;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "RadiationRoom" } );
 	}

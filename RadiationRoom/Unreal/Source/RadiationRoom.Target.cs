@@ -8,7 +8,7 @@ public class RadiationRoomTarget : TargetRules
 	public RadiationRoomTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.Latest;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "RadiationRoom" } );
 	}
