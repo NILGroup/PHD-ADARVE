@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -20,8 +20,7 @@
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
-				"Android",
-				"HoloLens"
+				"Android"
 			]
 		},
 		{
@@ -31,14 +30,13 @@
 		},
 		{
 			"Name": "GLTFImporter",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "LiveLinkXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
+				"Win64"
 			]
 		},
 		{
@@ -63,7 +61,7 @@
 		},
 		{
 			"Name": "TypewriterPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5796d04c2eba4cffa4bd7df597220967"
 		},
 		{
